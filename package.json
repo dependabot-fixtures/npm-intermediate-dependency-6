@@ -1,0 +1,22 @@
+{
+  "name": "@dependabot-fixtures/npm-intermediate-dependency-6",
+  "version": "0.0.1",
+  "description": "a test fixture for testing transitive dependency updates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dependabot-fixtures/npm-intermediate-dependency-6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dependabot-fixtures/npm-intermediate-dependency-6/issues"
+  },
+  "homepage": "https://github.com/dependabot-fixtures/npm-intermediate-dependency-6#readme",
+  "dependencies": {
+    "@dependabot-fixtures/npm-intermediate-dependency-4": "^1.1.0"
+  }
+}
